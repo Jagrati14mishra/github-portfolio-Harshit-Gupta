@@ -14,7 +14,6 @@ Pursuing BCA from Maharana Pratap College of Professional Studies. I completed m
  <li>Got certificate form "Subhash Children Society" for caring and helping orphans and needy children. </l2>
 </ul>
 
-
 <h1>contact</h1>
 <ul>
  <li>V phone no. : 8090997143</li>
