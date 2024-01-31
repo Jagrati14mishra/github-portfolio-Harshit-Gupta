@@ -1,4 +1,4 @@
-
+![myportfolioimage](https://github.com/Jagrati14mishra/github-portfolio-Harshit-Gupta/blob/main/IMG_20240131_135528.jpg?raw=true)
 
 
 
