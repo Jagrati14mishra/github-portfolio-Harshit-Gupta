@@ -10,8 +10,8 @@ Pursuing BCA from Maharana Pratap College of Professional Studies. I completed m
 
 <h1>achievements</h1>
 <ul>
- <li>Completed 12 months of computer course with "A" grade.</l1> 
- <li>Got certificate form "Subhash Children Society" for caring and helping orphans and needy children. </l2>
+ <li>Completed 12 months of computer course with "A" grade.</li> 
+ <li>Got certificate form "Subhash Children Society" for caring and helping orphans and needy children. </li>
 </ul>
 
 <h1>contact</h1>
