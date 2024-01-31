@@ -19,5 +19,6 @@ Pursuing BCA from Maharana Pratap College of Professional Studies. I completed m
  <li> phone no. : 8090997143</li>
  <li> email : aditya1512gupta@gmail.com</li>
 </ul>
+
  <h1>linkedin</h1>
  [linkedin](https://www.linkedin.com/in/harshit-gupta-b1216128a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
