@@ -15,4 +15,3 @@ Pursuing BCA from Maharana Pratap College of Professional Studies. I completed m
 <h1>contact</h1>
 phone no. : 8090997143
 email : aditya1512gupta@gmail.com
-
