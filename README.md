@@ -13,5 +13,5 @@ Pursuing BCA from Maharana Pratap College of Professional Studies. I completed m
  Got certificate form "Subhash Children Society" for caring and helping orphans and needy children. 
 
 <h1>contact</h1>
-phone no. : 8090997143
-email : aditya1512gupta@gmail.com
+ phone no. : 8090997143
+ email : aditya1512gupta@gmail.com
